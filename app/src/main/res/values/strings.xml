@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HaltBuzzer</string>
+    <string-array name="Station">
+        <item></item>
+    </string-array>
+    <string name="title_activity_google_maps_api">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_maps3">Map</string>
+</resources>
